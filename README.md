@@ -10,3 +10,8 @@
 
 ![Foto01](Apuntes001.jpg)
 ![Foto02](Apuntes002.jpg)
+
+- Ahora tendremos que clonarlo en nuestro dispositivo local siguiendo una serie de pasos.
+  - Primero clonaríamos el repertorio de *GitHub* con el comando **git clone** hacia nuestro dispositivo local.
+
+![Foto03](Apuntes003.jpg)
